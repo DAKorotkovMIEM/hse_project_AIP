@@ -47,4 +47,4 @@ if __name__ == '__main__':
                     send_message(user_id, f'Поздравляю, можешь продолжать.')
                     conn.commit()
 
-#test2
+#test1
