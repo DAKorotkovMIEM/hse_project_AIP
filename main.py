@@ -46,3 +46,5 @@ if __name__ == '__main__':
                                  VALUES(?, ?);""", (user_id, role))
                     send_message(user_id, f'Поздравляю, можешь продолжать.')
                     conn.commit()
+
+#test
